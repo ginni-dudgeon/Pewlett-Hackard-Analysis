@@ -3,7 +3,7 @@ Pewlett-Hackard-Analysis
 Overview 
 
 
-Pewlett-Hackard needs to prepare for the large amount of employees that are retiring over the next few years. The company has thousands of employees and has asked for help in identifying these employees. The company needs to know the titles these employees hold and their salaries so they have an idea of which positions will need to be replaced and the amount of money they will need to anticipate spending on salaries as well.
+Pewlett-Hackard needs to prepare for the large amount of employees that are retiring over the next few years. This mass exodus of retiring employees is known as the "silver tsunami". The company has thousands of employees and has asked for help in identifying these employees. The company needs to know the titles these employees hold and their salaries so they have an idea of which positions will need to be replaced and the amount of money they will need to anticipate spending on salaries as well.
 
 The information was obtained from six original CSV files containing employee data. The analysis was performed using SQL to create relational databases between the original CSV files. This resulted in the creation of several more CSV files that were used to complete the final analysis required.
 
@@ -41,12 +41,18 @@ The results contain four major points requested by the company.
 
 
 
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+Summary: 
 
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
+The “silver tsunami” will require a total of 90,398 employees to be filled. This total was obtained by completing the sum function on the retiring_titles CSV file. Not all of these positions will be open at once, but regardless of how many open per year it will be a massive undertaking to fill all the positions with qualified candidates.
+
+<img width="761" alt="Screen Shot 2022-07-13 at 10 39 21 PM" src="https://user-images.githubusercontent.com/105091538/178886629-94de1cde-4d04-44e7-9672-7b1930114661.png">
+
+
+
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-![image](https://user-images.githubusercontent.com/105091538/178883390-e849b41e-3ae1-43f3-bfa7-bcf2741e6b5b.png)
+
 
