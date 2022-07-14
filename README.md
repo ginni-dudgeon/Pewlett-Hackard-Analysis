@@ -13,27 +13,31 @@ The results contain four major points requested by the company.
 
 •	Specific employees and their unique titles: This tells the company what the specific titles are for each employee.
 
-<img width="685" alt="Screen Shot 2022-07-13 at 10 19 55 PM" src="https://user-images.githubusercontent.com/105091538/178884002-8389c0d4-c823-4b57-85ce-13a48fde9128.png">
+<img width="710" alt="Screen Shot 2022-07-13 at 10 32 55 PM" src="https://user-images.githubusercontent.com/105091538/178885618-f9558f7c-55b8-458c-98d6-fa6c781fcfac.png">
+
+
 
 
 
 •	Employees retiring and their title: This lists each employee who is retiring and their exact title.
 
-<img width="584" alt="Screen Shot 2022-07-13 at 10 22 02 PM" src="https://user-images.githubusercontent.com/105091538/178884251-ae8316fe-3674-441e-9db7-06a09c19c6cf.png">
+<img width="607" alt="Screen Shot 2022-07-13 at 10 31 46 PM" src="https://user-images.githubusercontent.com/105091538/178885497-9e031779-0e0b-4584-b8c6-c136e4a1247d.png">
+
 
 
 
 •	The number of employees retiring within each title name: This details the number of employees retiring that hold the same title.
 
-<img width="584" alt="Screen Shot 2022-07-13 at 10 22 02 PM" src="https://user-images.githubusercontent.com/105091538/178884446-06976a2a-945a-4fcc-8b0b-05674650f49e.png">
+<img width="580" alt="Screen Shot 2022-07-13 at 10 30 24 PM" src="https://user-images.githubusercontent.com/105091538/178885349-01d4e472-6245-4552-b70d-1f0425be048f.png">
+
 
 
 
 •	Employees who are eligible for the mentorship program:	This allows the company to see the current employees who are eligible to participate in the mentorship program. This allows these employees to learn more about their current role and then take the place of a retired employee. 
 
+<img width="785" alt="Screen Shot 2022-07-13 at 10 28 33 PM" src="https://user-images.githubusercontent.com/105091538/178885097-80dde663-f06f-4ba3-8fff-8aaa72420c45.png">
 
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 
 
