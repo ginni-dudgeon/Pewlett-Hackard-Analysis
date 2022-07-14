@@ -51,8 +51,12 @@ The “silver tsunami” will require a total of 90,398 employees to be filled. 
 <img width="761" alt="Screen Shot 2022-07-13 at 10 39 21 PM" src="https://user-images.githubusercontent.com/105091538/178886629-94de1cde-4d04-44e7-9672-7b1930114661.png">
 
 
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett-Hackard employees?
+
+It is unknown if there are enough qualified staff ready to retire that are available to mentor the next generation of staff. A query was run to determine if there are enough qualified staff. The query completed a search for the most likely qualified staff which included those with the following title, Senior Engineer, Senior Staff, Engineer, Technique Leader and Manager. These were the titles thought to be most qualified to mentor younger staff.
+
+<img width="622" alt="Screen Shot 2022-07-13 at 10 50 56 PM" src="https://user-images.githubusercontent.com/105091538/178888724-2b471f26-2f57-4bfc-81fe-7abeaa8a6b1b.png">
 
 
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
